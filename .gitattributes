@@ -1,4 +1,2 @@
-test/*.rb linguist-vendored
-lib/linguist.rb linguist-language=Java
-lib/linguist/classifier.rb linguist-generated
+linguist-language=java
 
