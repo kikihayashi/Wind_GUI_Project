@@ -1,0 +1,15 @@
+下載網址：https://dev.mysql.com/downloads/mysql/
+
+以系統管理員身分執行cmd
+
+cd\mysql\mysql-5.7.17\bin
+
+mysqld --defaults-file=C:/mysql/my.ini --initialize --console
+
+mysqld --defaults-file=C:/mysql/my.ini --console
+
+cd\mysql\mysql-5.7.17\bin
+
+mysql -u root -p
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password';
